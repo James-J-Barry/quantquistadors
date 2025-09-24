@@ -285,7 +285,7 @@ if __name__ == '__main__':
     
     print("=" * 50)
     if success:
-        print("ALL TESTS PASSED!")
+        print("ALL TESTS PASSED! ✅")
     else:
-        print("SOME TESTS FAILED!")
+        print("SOME TESTS FAILED! ❌")
         exit(1)
